@@ -1,3 +1,5 @@
+![Daily Digest — Your morning, made simple.](docs/images/daily-digest-cover.png)
+
 # My Daily Digest
 
 A private morning briefing app built for Jason Edwards. It combines Gmail priorities, Mims weather, and Linux/cloud updates in a calm dashboard.
